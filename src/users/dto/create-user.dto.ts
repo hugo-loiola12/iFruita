@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unsafe-call */
 // src/users/dto/create-user.dto.ts
 import { IsString, IsEmail, MinLength } from 'class-validator';
 
